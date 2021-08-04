@@ -2,6 +2,7 @@
 
 # Resources 
 **Python Version:** 3.7  
+**Installation :** pip install -U pandasql
 **Packages:** pandas, pandasql, display   
 **Dataset :** https://ourworldindata.org/covid-deaths 
 
@@ -13,7 +14,8 @@
 * Aggregate Functions : ORDER BY, MAX, SUM
 
 # Overview
-* Collected worlds data from 2020-02-01 to 2021-07-08.
-* F
-* Optimized Linear, Lasso, and Random Forest Regressors using GridsearchCV to reach the best model.
-* Created a tool that predicts data science salaries worldwide.
+* Collected data from 2020-02-01 to 2021-07-08 consist of 102458 rows.
+* Tried to find out the effect of the pandemic in different countries and where Bangladesh stands. 
+* Find out likely hood of getting infected in Bangladesh.
+* Find out the death count in Asia and how Bangladesh doing.
+* Find out if the vaccine is decreasing death worldwide.
